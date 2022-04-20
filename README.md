@@ -4,7 +4,7 @@ Class of Linear Regression with 2 methods:
 - Predict (predicting values)
 
 ## Why:
-This code was prepered for this article: https://medium.com/@axegggl/linear-regression-in-python-e52d8a10f8f3
+This code was prepared for this article: https://medium.com/@axegggl/linear-regression-in-python-e52d8a10f8f3
 
 -------------------------------------------------------------------------------
 
