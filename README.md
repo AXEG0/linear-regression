@@ -1,6 +1,13 @@
 ## What:
-This code generates a synthetic dataset with imbalanced classes, splits it into training and testing sets, and trains four logistic regression models: a standard model, a balanced model, a model with under-sampled training data, and a calibrated model. It then evaluates each model using Area Under the Receiver Operating Characteristic (ROC AUC) and Brier scores, and prints the results.
+Class of Linear Regression with 2 methods:
+- Fit (finding of intercept and coefficients)
+- Predict (predicting values)
 
 ## Why:
-This code was prepared for this article: https://medium.com/@axegggl/imbalance-resampling-weighting-calibration-vs-no-intervention-strategy-75b4ccb4b5ef
+This code was prepared for this article: https://medium.com/@axegggl/linear-regression-in-python-e52d8a10f8f3
 
+-------------------------------------------------------------------------------
+
+Python 3.8.3
+NumPy 1.22.3
+scikit-learn 1.0.2
